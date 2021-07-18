@@ -1,0 +1,7 @@
+C:\Users\AmitGaurav\source\repos\dotnet\AsIsoperator\AsIsoperator\bin\Debug\AsIsoperator.exe.config
+C:\Users\AmitGaurav\source\repos\dotnet\AsIsoperator\AsIsoperator\bin\Debug\AsIsoperator.exe
+C:\Users\AmitGaurav\source\repos\dotnet\AsIsoperator\AsIsoperator\bin\Debug\AsIsoperator.pdb
+C:\Users\AmitGaurav\source\repos\dotnet\AsIsoperator\AsIsoperator\obj\Debug\AsIsoperator.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\source\repos\dotnet\AsIsoperator\AsIsoperator\obj\Debug\AsIsoperator.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\source\repos\dotnet\AsIsoperator\AsIsoperator\obj\Debug\AsIsoperator.exe
+C:\Users\AmitGaurav\source\repos\dotnet\AsIsoperator\AsIsoperator\obj\Debug\AsIsoperator.pdb

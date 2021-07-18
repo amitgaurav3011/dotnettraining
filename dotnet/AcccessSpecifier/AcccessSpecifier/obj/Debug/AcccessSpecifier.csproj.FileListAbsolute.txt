@@ -1,0 +1,7 @@
+C:\Users\AmitGaurav\source\repos\dotnet\AcccessSpecifier\AcccessSpecifier\obj\Debug\AcccessSpecifier.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\source\repos\dotnet\AcccessSpecifier\AcccessSpecifier\obj\Debug\AcccessSpecifier.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\source\repos\dotnet\AcccessSpecifier\AcccessSpecifier\bin\Debug\AcccessSpecifier.exe.config
+C:\Users\AmitGaurav\source\repos\dotnet\AcccessSpecifier\AcccessSpecifier\bin\Debug\AcccessSpecifier.exe
+C:\Users\AmitGaurav\source\repos\dotnet\AcccessSpecifier\AcccessSpecifier\bin\Debug\AcccessSpecifier.pdb
+C:\Users\AmitGaurav\source\repos\dotnet\AcccessSpecifier\AcccessSpecifier\obj\Debug\AcccessSpecifier.exe
+C:\Users\AmitGaurav\source\repos\dotnet\AcccessSpecifier\AcccessSpecifier\obj\Debug\AcccessSpecifier.pdb
