@@ -1,0 +1,7 @@
+C:\Users\AmitGaurav\gitRepo\SqlAdapterStoredProcedure\SqlAdapterStoredProcedure\bin\Debug\SqlAdapterStoredProcedure.exe.config
+C:\Users\AmitGaurav\gitRepo\SqlAdapterStoredProcedure\SqlAdapterStoredProcedure\bin\Debug\SqlAdapterStoredProcedure.exe
+C:\Users\AmitGaurav\gitRepo\SqlAdapterStoredProcedure\SqlAdapterStoredProcedure\bin\Debug\SqlAdapterStoredProcedure.pdb
+C:\Users\AmitGaurav\gitRepo\SqlAdapterStoredProcedure\SqlAdapterStoredProcedure\obj\Debug\SqlAdapterStoredProcedure.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\gitRepo\SqlAdapterStoredProcedure\SqlAdapterStoredProcedure\obj\Debug\SqlAdapterStoredProcedure.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\gitRepo\SqlAdapterStoredProcedure\SqlAdapterStoredProcedure\obj\Debug\SqlAdapterStoredProcedure.exe
+C:\Users\AmitGaurav\gitRepo\SqlAdapterStoredProcedure\SqlAdapterStoredProcedure\obj\Debug\SqlAdapterStoredProcedure.pdb
