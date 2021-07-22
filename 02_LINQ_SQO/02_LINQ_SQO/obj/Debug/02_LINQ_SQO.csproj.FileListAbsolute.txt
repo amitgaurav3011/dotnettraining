@@ -1,0 +1,7 @@
+C:\Users\AmitGaurav\gitRepo\02_LINQ_SQO\02_LINQ_SQO\obj\Debug\02_LINQ_SQO.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\gitRepo\02_LINQ_SQO\02_LINQ_SQO\obj\Debug\02_LINQ_SQO.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\gitRepo\02_LINQ_SQO\02_LINQ_SQO\bin\Debug\02_LINQ_SQO.exe.config
+C:\Users\AmitGaurav\gitRepo\02_LINQ_SQO\02_LINQ_SQO\bin\Debug\02_LINQ_SQO.exe
+C:\Users\AmitGaurav\gitRepo\02_LINQ_SQO\02_LINQ_SQO\bin\Debug\02_LINQ_SQO.pdb
+C:\Users\AmitGaurav\gitRepo\02_LINQ_SQO\02_LINQ_SQO\obj\Debug\02_LINQ_SQO.exe
+C:\Users\AmitGaurav\gitRepo\02_LINQ_SQO\02_LINQ_SQO\obj\Debug\02_LINQ_SQO.pdb

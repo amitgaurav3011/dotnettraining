@@ -1,0 +1,7 @@
+C:\Users\AmitGaurav\gitRepo\LINQ_Joins\LINQ_Joins\bin\Debug\LINQ_Joins.exe.config
+C:\Users\AmitGaurav\gitRepo\LINQ_Joins\LINQ_Joins\bin\Debug\LINQ_Joins.exe
+C:\Users\AmitGaurav\gitRepo\LINQ_Joins\LINQ_Joins\bin\Debug\LINQ_Joins.pdb
+C:\Users\AmitGaurav\gitRepo\LINQ_Joins\LINQ_Joins\obj\Debug\LINQ_Joins.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\gitRepo\LINQ_Joins\LINQ_Joins\obj\Debug\LINQ_Joins.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\gitRepo\LINQ_Joins\LINQ_Joins\obj\Debug\LINQ_Joins.exe
+C:\Users\AmitGaurav\gitRepo\LINQ_Joins\LINQ_Joins\obj\Debug\LINQ_Joins.pdb

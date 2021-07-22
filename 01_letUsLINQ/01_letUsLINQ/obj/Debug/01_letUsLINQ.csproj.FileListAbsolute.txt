@@ -1,0 +1,7 @@
+C:\Users\AmitGaurav\gitRepo\01_letUsLINQ\01_letUsLINQ\bin\Debug\01_letUsLINQ.exe.config
+C:\Users\AmitGaurav\gitRepo\01_letUsLINQ\01_letUsLINQ\bin\Debug\01_letUsLINQ.exe
+C:\Users\AmitGaurav\gitRepo\01_letUsLINQ\01_letUsLINQ\bin\Debug\01_letUsLINQ.pdb
+C:\Users\AmitGaurav\gitRepo\01_letUsLINQ\01_letUsLINQ\obj\Debug\01_letUsLINQ.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\gitRepo\01_letUsLINQ\01_letUsLINQ\obj\Debug\01_letUsLINQ.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\gitRepo\01_letUsLINQ\01_letUsLINQ\obj\Debug\01_letUsLINQ.exe
+C:\Users\AmitGaurav\gitRepo\01_letUsLINQ\01_letUsLINQ\obj\Debug\01_letUsLINQ.pdb

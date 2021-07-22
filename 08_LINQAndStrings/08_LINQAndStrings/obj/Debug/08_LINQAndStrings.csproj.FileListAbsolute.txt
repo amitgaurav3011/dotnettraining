@@ -1,0 +1,7 @@
+C:\Users\AmitGaurav\gitRepo\08_LINQAndStrings\08_LINQAndStrings\bin\Debug\08_LINQAndStrings.exe.config
+C:\Users\AmitGaurav\gitRepo\08_LINQAndStrings\08_LINQAndStrings\bin\Debug\08_LINQAndStrings.exe
+C:\Users\AmitGaurav\gitRepo\08_LINQAndStrings\08_LINQAndStrings\bin\Debug\08_LINQAndStrings.pdb
+C:\Users\AmitGaurav\gitRepo\08_LINQAndStrings\08_LINQAndStrings\obj\Debug\08_LINQAndStrings.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\gitRepo\08_LINQAndStrings\08_LINQAndStrings\obj\Debug\08_LINQAndStrings.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\gitRepo\08_LINQAndStrings\08_LINQAndStrings\obj\Debug\08_LINQAndStrings.exe
+C:\Users\AmitGaurav\gitRepo\08_LINQAndStrings\08_LINQAndStrings\obj\Debug\08_LINQAndStrings.pdb
