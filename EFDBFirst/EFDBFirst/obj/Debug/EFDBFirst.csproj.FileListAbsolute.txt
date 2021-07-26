@@ -1,0 +1,12 @@
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\bin\Debug\EFDBFirst.exe.config
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\bin\Debug\EFDBFirst.exe
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\bin\Debug\EFDBFirst.pdb
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\bin\Debug\EntityFramework.dll
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\bin\Debug\EntityFramework.xml
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\obj\Debug\EFDBFirst.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\obj\Debug\EFDBFirst.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\obj\Debug\EFDBFirst.csproj.CopyComplete
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\obj\Debug\EFDBFirst.exe
+C:\Users\AmitGaurav\gitRepo\EFDBFirst\EFDBFirst\obj\Debug\EFDBFirst.pdb

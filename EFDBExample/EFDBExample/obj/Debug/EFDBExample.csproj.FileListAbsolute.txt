@@ -1,0 +1,12 @@
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\bin\Debug\EFDBExample.exe.config
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\bin\Debug\EFDBExample.exe
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\bin\Debug\EFDBExample.pdb
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\bin\Debug\EntityFramework.dll
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\bin\Debug\EntityFramework.xml
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\obj\Debug\EFDBExample.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\obj\Debug\EFDBExample.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\obj\Debug\EFDBExample.csproj.CopyComplete
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\obj\Debug\EFDBExample.exe
+C:\Users\AmitGaurav\gitRepo\EFDBExample\EFDBExample\obj\Debug\EFDBExample.pdb

@@ -1,0 +1,7 @@
+C:\Users\AmitGaurav\gitRepo\LinqToSql-01a\LinqToSql-01a\bin\Debug\LinqToSql-01a.exe.config
+C:\Users\AmitGaurav\gitRepo\LinqToSql-01a\LinqToSql-01a\bin\Debug\LinqToSql-01a.exe
+C:\Users\AmitGaurav\gitRepo\LinqToSql-01a\LinqToSql-01a\bin\Debug\LinqToSql-01a.pdb
+C:\Users\AmitGaurav\gitRepo\LinqToSql-01a\LinqToSql-01a\obj\Debug\LinqToSql-01a.csproj.AssemblyReference.cache
+C:\Users\AmitGaurav\gitRepo\LinqToSql-01a\LinqToSql-01a\obj\Debug\LinqToSql-01a.csproj.CoreCompileInputs.cache
+C:\Users\AmitGaurav\gitRepo\LinqToSql-01a\LinqToSql-01a\obj\Debug\LinqToSql-01a.exe
+C:\Users\AmitGaurav\gitRepo\LinqToSql-01a\LinqToSql-01a\obj\Debug\LinqToSql-01a.pdb
