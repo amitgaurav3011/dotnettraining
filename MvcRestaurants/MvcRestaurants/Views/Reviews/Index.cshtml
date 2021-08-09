@@ -1,0 +1,16 @@
+﻿@model MvcRestaurants.Models.Restaurant
+@{
+    ViewBag.Title = "Index";
+}
+
+<h2>Index</h2>
+
+@foreach (var item in Model.Reviews)
+{
+<div class="review">
+    @item.Rating
+    @item.Body
+</div>
+
+}
+
